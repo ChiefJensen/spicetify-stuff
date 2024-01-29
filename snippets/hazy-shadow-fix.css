@@ -1,0 +1,8 @@
+.main-yourLibraryX-isScrolled {
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+transition: none !important;
+}
+.main-buddyFeed-scrollBarContainer .os-viewport-native-scrollbars-invisible {
+-webkit-mask-image: linear-gradient(transparent 0%, rgba(0, 0, 0, 1) 2%, rgba(0, 0, 0, 1) 98%, transparent 100%) !important;
+}
